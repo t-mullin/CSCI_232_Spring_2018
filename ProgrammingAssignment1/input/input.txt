@@ -1,0 +1,4 @@
+The quick brown fox jumped over the lazy dog.
+This is a test for reading in input.txt,
+encoding it and outputting the encoded message to output.txt.
+Then decoding the encoded message.
